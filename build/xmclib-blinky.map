@@ -1,0 +1,1085 @@
+Archive member included to satisfy reference by file (symbol)
+
+/opt/arm-gnu-toolchain/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-init.o)
+                              CMakeFiles/xmclib-blinky.elf.dir/src/startup_XMC4700.S.o (__libc_init_array)
+/opt/arm-gnu-toolchain/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-memcpy-stub.o)
+                              CMakeFiles/xmclib-blinky.elf.dir/src/system_XMC4700.c.o (memcpy)
+/opt/arm-gnu-toolchain/bin/../lib/gcc/arm-none-eabi/14.2.1/thumb/v7e-m+fp/hard/libgcc.a(unwind-arm.o)
+                              CMakeFiles/xmclib-blinky.elf.dir/src/main.cpp.o (__aeabi_unwind_cpp_pr0)
+/opt/arm-gnu-toolchain/bin/../lib/gcc/arm-none-eabi/14.2.1/thumb/v7e-m+fp/hard/libgcc.a(libunwind.o)
+                              /opt/arm-gnu-toolchain/bin/../lib/gcc/arm-none-eabi/14.2.1/thumb/v7e-m+fp/hard/libgcc.a(unwind-arm.o) (restore_core_regs)
+/opt/arm-gnu-toolchain/bin/../lib/gcc/arm-none-eabi/14.2.1/thumb/v7e-m+fp/hard/libgcc.a(pr-support.o)
+                              /opt/arm-gnu-toolchain/bin/../lib/gcc/arm-none-eabi/14.2.1/thumb/v7e-m+fp/hard/libgcc.a(unwind-arm.o) (__gnu_unwind_execute)
+/opt/arm-gnu-toolchain/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-abort.o)
+                              /opt/arm-gnu-toolchain/bin/../lib/gcc/arm-none-eabi/14.2.1/thumb/v7e-m+fp/hard/libgcc.a(unwind-arm.o) (abort)
+/opt/arm-gnu-toolchain/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-signal.o)
+                              /opt/arm-gnu-toolchain/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-abort.o) (raise)
+/opt/arm-gnu-toolchain/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-impure.o)
+                              /opt/arm-gnu-toolchain/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-signal.o) (_impure_ptr)
+/opt/arm-gnu-toolchain/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-signalr.o)
+                              /opt/arm-gnu-toolchain/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-signal.o) (_kill_r)
+/opt/arm-gnu-toolchain/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-mallocr.o)
+                              /opt/arm-gnu-toolchain/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-signal.o) (_malloc_r)
+/opt/arm-gnu-toolchain/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-mlock.o)
+                              /opt/arm-gnu-toolchain/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-mallocr.o) (__malloc_lock)
+/opt/arm-gnu-toolchain/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-reent.o)
+                              /opt/arm-gnu-toolchain/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-signalr.o) (errno)
+/opt/arm-gnu-toolchain/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-sbrkr.o)
+                              /opt/arm-gnu-toolchain/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-mallocr.o) (_sbrk_r)
+/opt/arm-gnu-toolchain/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-lock.o)
+                              /opt/arm-gnu-toolchain/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-mlock.o) (__retarget_lock_acquire_recursive)
+/opt/arm-gnu-toolchain/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-freer.o)
+                              /opt/arm-gnu-toolchain/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-reent.o) (_free_r)
+/opt/arm-gnu-toolchain/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libnosys.a(getpid.o)
+                              /opt/arm-gnu-toolchain/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-signalr.o) (_getpid)
+/opt/arm-gnu-toolchain/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libnosys.a(kill.o)
+                              /opt/arm-gnu-toolchain/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-signalr.o) (_kill)
+/opt/arm-gnu-toolchain/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libnosys.a(sbrk.o)
+                              /opt/arm-gnu-toolchain/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-sbrkr.o) (_sbrk)
+/opt/arm-gnu-toolchain/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libnosys.a(_exit.o)
+                              /opt/arm-gnu-toolchain/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-abort.o) (_exit)
+
+Discarded input sections
+
+ .group         0x00000000       0x18 CMakeFiles/xmclib-blinky.elf.dir/src/main.cpp.o
+ .group         0x00000000       0x18 CMakeFiles/xmclib-blinky.elf.dir/src/main.cpp.o
+ .text          0x00000000        0x0 CMakeFiles/xmclib-blinky.elf.dir/src/main.cpp.o
+ .data          0x00000000        0x0 CMakeFiles/xmclib-blinky.elf.dir/src/main.cpp.o
+ .bss           0x00000000        0x0 CMakeFiles/xmclib-blinky.elf.dir/src/main.cpp.o
+ .ARM.extab.text._init
+                0x00000000        0x0 CMakeFiles/xmclib-blinky.elf.dir/src/main.cpp.o
+ .ARM.extab.text._fini
+                0x00000000        0x0 CMakeFiles/xmclib-blinky.elf.dir/src/main.cpp.o
+ .ARM.extab.text._Z5delaym
+                0x00000000        0x0 CMakeFiles/xmclib-blinky.elf.dir/src/main.cpp.o
+ .text._Z10SystemInitv
+                0x00000000       0x4c CMakeFiles/xmclib-blinky.elf.dir/src/main.cpp.o
+ .ARM.extab.text._Z10SystemInitv
+                0x00000000        0x0 CMakeFiles/xmclib-blinky.elf.dir/src/main.cpp.o
+ .ARM.exidx.text._Z10SystemInitv
+                0x00000000        0x8 CMakeFiles/xmclib-blinky.elf.dir/src/main.cpp.o
+ .text._Z17__libc_init_arrayv
+                0x00000000        0xe CMakeFiles/xmclib-blinky.elf.dir/src/main.cpp.o
+ .ARM.extab.text._Z17__libc_init_arrayv
+                0x00000000        0x0 CMakeFiles/xmclib-blinky.elf.dir/src/main.cpp.o
+ .ARM.exidx.text._Z17__libc_init_arrayv
+                0x00000000        0x8 CMakeFiles/xmclib-blinky.elf.dir/src/main.cpp.o
+ .ARM.extab.text.main
+                0x00000000        0x0 CMakeFiles/xmclib-blinky.elf.dir/src/main.cpp.o
+ .comment       0x00000000       0x46 CMakeFiles/xmclib-blinky.elf.dir/src/main.cpp.o
+ .text          0x00000000        0x0 CMakeFiles/xmclib-blinky.elf.dir/src/startup_XMC4700.S.o
+ .data          0x00000000        0x0 CMakeFiles/xmclib-blinky.elf.dir/src/startup_XMC4700.S.o
+ .bss           0x00000000        0x0 CMakeFiles/xmclib-blinky.elf.dir/src/startup_XMC4700.S.o
+ .text          0x00000000        0x0 CMakeFiles/xmclib-blinky.elf.dir/src/system_XMC4700.c.o
+ .data          0x00000000        0x0 CMakeFiles/xmclib-blinky.elf.dir/src/system_XMC4700.c.o
+ .bss           0x00000000        0x0 CMakeFiles/xmclib-blinky.elf.dir/src/system_XMC4700.c.o
+ .comment       0x00000000       0x46 CMakeFiles/xmclib-blinky.elf.dir/src/system_XMC4700.c.o
+ .text          0x00000000        0x0 CMakeFiles/xmclib-blinky.elf.dir/src/gpio.cpp.o
+ .data          0x00000000        0x0 CMakeFiles/xmclib-blinky.elf.dir/src/gpio.cpp.o
+ .bss           0x00000000        0x0 CMakeFiles/xmclib-blinky.elf.dir/src/gpio.cpp.o
+ .ARM.extab.text._ZN4gpio12get_xmc_modeE9gpio_mode
+                0x00000000        0x0 CMakeFiles/xmclib-blinky.elf.dir/src/gpio.cpp.o
+ .ARM.extab.text._ZN4gpio12get_xmc_portEh
+                0x00000000        0x0 CMakeFiles/xmclib-blinky.elf.dir/src/gpio.cpp.o
+ .ARM.extab.text._ZN4gpio5beginEv
+                0x00000000        0x0 CMakeFiles/xmclib-blinky.elf.dir/src/gpio.cpp.o
+ .text._ZN4gpio8set_highEv
+                0x00000000       0x28 CMakeFiles/xmclib-blinky.elf.dir/src/gpio.cpp.o
+ .ARM.extab.text._ZN4gpio8set_highEv
+                0x00000000        0x0 CMakeFiles/xmclib-blinky.elf.dir/src/gpio.cpp.o
+ .ARM.exidx.text._ZN4gpio8set_highEv
+                0x00000000        0x8 CMakeFiles/xmclib-blinky.elf.dir/src/gpio.cpp.o
+ .text._ZN4gpio7set_lowEv
+                0x00000000       0x2a CMakeFiles/xmclib-blinky.elf.dir/src/gpio.cpp.o
+ .ARM.extab.text._ZN4gpio7set_lowEv
+                0x00000000        0x0 CMakeFiles/xmclib-blinky.elf.dir/src/gpio.cpp.o
+ .ARM.exidx.text._ZN4gpio7set_lowEv
+                0x00000000        0x8 CMakeFiles/xmclib-blinky.elf.dir/src/gpio.cpp.o
+ .ARM.extab.text._ZN4gpio8set_modeEv
+                0x00000000        0x0 CMakeFiles/xmclib-blinky.elf.dir/src/gpio.cpp.o
+ .ARM.extab.text._ZN4gpio6toggleEv
+                0x00000000        0x0 CMakeFiles/xmclib-blinky.elf.dir/src/gpio.cpp.o
+ .comment       0x00000000       0x46 CMakeFiles/xmclib-blinky.elf.dir/src/gpio.cpp.o
+ .text          0x00000000        0x0 CMakeFiles/xmclib-blinky.elf.dir/src/led.cpp.o
+ .data          0x00000000        0x0 CMakeFiles/xmclib-blinky.elf.dir/src/led.cpp.o
+ .bss           0x00000000        0x0 CMakeFiles/xmclib-blinky.elf.dir/src/led.cpp.o
+ .comment       0x00000000       0x46 CMakeFiles/xmclib-blinky.elf.dir/src/led.cpp.o
+ .ARM.attributes
+                0x00000000       0x34 CMakeFiles/xmclib-blinky.elf.dir/src/led.cpp.o
+ .group         0x00000000       0x18 CMakeFiles/xmclib-blinky.elf.dir/src/boards/xmc47_relax_kit.cpp.o
+ .group         0x00000000       0x18 CMakeFiles/xmclib-blinky.elf.dir/src/boards/xmc47_relax_kit.cpp.o
+ .group         0x00000000       0x18 CMakeFiles/xmclib-blinky.elf.dir/src/boards/xmc47_relax_kit.cpp.o
+ .text          0x00000000        0x0 CMakeFiles/xmclib-blinky.elf.dir/src/boards/xmc47_relax_kit.cpp.o
+ .data          0x00000000        0x0 CMakeFiles/xmclib-blinky.elf.dir/src/boards/xmc47_relax_kit.cpp.o
+ .bss           0x00000000        0x0 CMakeFiles/xmclib-blinky.elf.dir/src/boards/xmc47_relax_kit.cpp.o
+ .ARM.extab.text._Z41__static_initialization_and_destruction_0v
+                0x00000000        0x0 CMakeFiles/xmclib-blinky.elf.dir/src/boards/xmc47_relax_kit.cpp.o
+ .ARM.extab.text._GLOBAL__sub_I_builtin_led1
+                0x00000000        0x0 CMakeFiles/xmclib-blinky.elf.dir/src/boards/xmc47_relax_kit.cpp.o
+ .comment       0x00000000       0x46 CMakeFiles/xmclib-blinky.elf.dir/src/boards/xmc47_relax_kit.cpp.o
+ .text          0x00000000        0x0 /opt/arm-gnu-toolchain/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-init.o)
+ .data          0x00000000        0x0 /opt/arm-gnu-toolchain/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-init.o)
+ .bss           0x00000000        0x0 /opt/arm-gnu-toolchain/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-init.o)
+ .text          0x00000000        0x0 /opt/arm-gnu-toolchain/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-memcpy-stub.o)
+ .data          0x00000000        0x0 /opt/arm-gnu-toolchain/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-memcpy-stub.o)
+ .bss           0x00000000        0x0 /opt/arm-gnu-toolchain/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-memcpy-stub.o)
+ .text          0x00000000        0x0 /opt/arm-gnu-toolchain/bin/../lib/gcc/arm-none-eabi/14.2.1/thumb/v7e-m+fp/hard/libgcc.a(unwind-arm.o)
+ .data          0x00000000        0x0 /opt/arm-gnu-toolchain/bin/../lib/gcc/arm-none-eabi/14.2.1/thumb/v7e-m+fp/hard/libgcc.a(unwind-arm.o)
+ .bss           0x00000000        0x0 /opt/arm-gnu-toolchain/bin/../lib/gcc/arm-none-eabi/14.2.1/thumb/v7e-m+fp/hard/libgcc.a(unwind-arm.o)
+ .ARM.extab.text.selfrel_offset31
+                0x00000000        0x0 /opt/arm-gnu-toolchain/bin/../lib/gcc/arm-none-eabi/14.2.1/thumb/v7e-m+fp/hard/libgcc.a(unwind-arm.o)
+ .ARM.extab.text.search_EIT_table
+                0x00000000        0x0 /opt/arm-gnu-toolchain/bin/../lib/gcc/arm-none-eabi/14.2.1/thumb/v7e-m+fp/hard/libgcc.a(unwind-arm.o)
+ .ARM.extab.text.__gnu_unwind_get_pr_addr
+                0x00000000        0x0 /opt/arm-gnu-toolchain/bin/../lib/gcc/arm-none-eabi/14.2.1/thumb/v7e-m+fp/hard/libgcc.a(unwind-arm.o)
+ .ARM.extab.text.get_eit_entry
+                0x00000000        0x0 /opt/arm-gnu-toolchain/bin/../lib/gcc/arm-none-eabi/14.2.1/thumb/v7e-m+fp/hard/libgcc.a(unwind-arm.o)
+ .ARM.extab.text.restore_non_core_regs
+                0x00000000        0x0 /opt/arm-gnu-toolchain/bin/../lib/gcc/arm-none-eabi/14.2.1/thumb/v7e-m+fp/hard/libgcc.a(unwind-arm.o)
+ .ARM.extab.text._Unwind_decode_typeinfo_ptr.constprop.0
+                0x00000000        0x0 /opt/arm-gnu-toolchain/bin/../lib/gcc/arm-none-eabi/14.2.1/thumb/v7e-m+fp/hard/libgcc.a(unwind-arm.o)
+ .ARM.extab.text._Unwind_DebugHook
+                0x00000000        0x0 /opt/arm-gnu-toolchain/bin/../lib/gcc/arm-none-eabi/14.2.1/thumb/v7e-m+fp/hard/libgcc.a(unwind-arm.o)
+ .ARM.extab.text.unwind_phase2
+                0x00000000        0x0 /opt/arm-gnu-toolchain/bin/../lib/gcc/arm-none-eabi/14.2.1/thumb/v7e-m+fp/hard/libgcc.a(unwind-arm.o)
+ .ARM.extab.text.unwind_phase2_forced
+                0x00000000        0x0 /opt/arm-gnu-toolchain/bin/../lib/gcc/arm-none-eabi/14.2.1/thumb/v7e-m+fp/hard/libgcc.a(unwind-arm.o)
+ .text._Unwind_GetCFA
+                0x00000000        0x4 /opt/arm-gnu-toolchain/bin/../lib/gcc/arm-none-eabi/14.2.1/thumb/v7e-m+fp/hard/libgcc.a(unwind-arm.o)
+ .ARM.extab.text._Unwind_GetCFA
+                0x00000000        0x0 /opt/arm-gnu-toolchain/bin/../lib/gcc/arm-none-eabi/14.2.1/thumb/v7e-m+fp/hard/libgcc.a(unwind-arm.o)
+ .ARM.exidx.text._Unwind_GetCFA
+                0x00000000        0x8 /opt/arm-gnu-toolchain/bin/../lib/gcc/arm-none-eabi/14.2.1/thumb/v7e-m+fp/hard/libgcc.a(unwind-arm.o)
+ .ARM.extab.text.__gnu_Unwind_RaiseException
+                0x00000000        0x0 /opt/arm-gnu-toolchain/bin/../lib/gcc/arm-none-eabi/14.2.1/thumb/v7e-m+fp/hard/libgcc.a(unwind-arm.o)
+ .ARM.extab.text.__gnu_Unwind_ForcedUnwind
+                0x00000000        0x0 /opt/arm-gnu-toolchain/bin/../lib/gcc/arm-none-eabi/14.2.1/thumb/v7e-m+fp/hard/libgcc.a(unwind-arm.o)
+ .ARM.extab.text.__gnu_Unwind_Resume
+                0x00000000        0x0 /opt/arm-gnu-toolchain/bin/../lib/gcc/arm-none-eabi/14.2.1/thumb/v7e-m+fp/hard/libgcc.a(unwind-arm.o)
+ .text._Unwind_Complete
+                0x00000000        0x4 /opt/arm-gnu-toolchain/bin/../lib/gcc/arm-none-eabi/14.2.1/thumb/v7e-m+fp/hard/libgcc.a(unwind-arm.o)
+ .ARM.extab.text._Unwind_Complete
+                0x00000000        0x0 /opt/arm-gnu-toolchain/bin/../lib/gcc/arm-none-eabi/14.2.1/thumb/v7e-m+fp/hard/libgcc.a(unwind-arm.o)
+ .ARM.exidx.text._Unwind_Complete
+                0x00000000        0x8 /opt/arm-gnu-toolchain/bin/../lib/gcc/arm-none-eabi/14.2.1/thumb/v7e-m+fp/hard/libgcc.a(unwind-arm.o)
+ .text._Unwind_DeleteException
+                0x00000000        0xc /opt/arm-gnu-toolchain/bin/../lib/gcc/arm-none-eabi/14.2.1/thumb/v7e-m+fp/hard/libgcc.a(unwind-arm.o)
+ .ARM.extab.text._Unwind_DeleteException
+                0x00000000        0x0 /opt/arm-gnu-toolchain/bin/../lib/gcc/arm-none-eabi/14.2.1/thumb/v7e-m+fp/hard/libgcc.a(unwind-arm.o)
+ .ARM.exidx.text._Unwind_DeleteException
+                0x00000000        0x8 /opt/arm-gnu-toolchain/bin/../lib/gcc/arm-none-eabi/14.2.1/thumb/v7e-m+fp/hard/libgcc.a(unwind-arm.o)
+ .ARM.extab.text._Unwind_VRS_Get
+                0x00000000        0x0 /opt/arm-gnu-toolchain/bin/../lib/gcc/arm-none-eabi/14.2.1/thumb/v7e-m+fp/hard/libgcc.a(unwind-arm.o)
+ .ARM.extab.text._Unwind_GetGR
+                0x00000000        0x0 /opt/arm-gnu-toolchain/bin/../lib/gcc/arm-none-eabi/14.2.1/thumb/v7e-m+fp/hard/libgcc.a(unwind-arm.o)
+ .ARM.extab.text._Unwind_VRS_Set
+                0x00000000        0x0 /opt/arm-gnu-toolchain/bin/../lib/gcc/arm-none-eabi/14.2.1/thumb/v7e-m+fp/hard/libgcc.a(unwind-arm.o)
+ .ARM.extab.text._Unwind_SetGR
+                0x00000000        0x0 /opt/arm-gnu-toolchain/bin/../lib/gcc/arm-none-eabi/14.2.1/thumb/v7e-m+fp/hard/libgcc.a(unwind-arm.o)
+ .ARM.extab.text.__gnu_Unwind_Backtrace
+                0x00000000        0x0 /opt/arm-gnu-toolchain/bin/../lib/gcc/arm-none-eabi/14.2.1/thumb/v7e-m+fp/hard/libgcc.a(unwind-arm.o)
+ .ARM.extab.text.__gnu_unwind_pr_common
+                0x00000000        0x0 /opt/arm-gnu-toolchain/bin/../lib/gcc/arm-none-eabi/14.2.1/thumb/v7e-m+fp/hard/libgcc.a(unwind-arm.o)
+ .ARM.extab.text.__aeabi_unwind_cpp_pr0
+                0x00000000        0x0 /opt/arm-gnu-toolchain/bin/../lib/gcc/arm-none-eabi/14.2.1/thumb/v7e-m+fp/hard/libgcc.a(unwind-arm.o)
+ .ARM.extab.text.__aeabi_unwind_cpp_pr1
+                0x00000000        0x0 /opt/arm-gnu-toolchain/bin/../lib/gcc/arm-none-eabi/14.2.1/thumb/v7e-m+fp/hard/libgcc.a(unwind-arm.o)
+ .ARM.extab.text.__aeabi_unwind_cpp_pr2
+                0x00000000        0x0 /opt/arm-gnu-toolchain/bin/../lib/gcc/arm-none-eabi/14.2.1/thumb/v7e-m+fp/hard/libgcc.a(unwind-arm.o)
+ .ARM.extab.text._Unwind_VRS_Pop
+                0x00000000        0x0 /opt/arm-gnu-toolchain/bin/../lib/gcc/arm-none-eabi/14.2.1/thumb/v7e-m+fp/hard/libgcc.a(unwind-arm.o)
+ .data          0x00000000        0x0 /opt/arm-gnu-toolchain/bin/../lib/gcc/arm-none-eabi/14.2.1/thumb/v7e-m+fp/hard/libgcc.a(libunwind.o)
+ .bss           0x00000000        0x0 /opt/arm-gnu-toolchain/bin/../lib/gcc/arm-none-eabi/14.2.1/thumb/v7e-m+fp/hard/libgcc.a(libunwind.o)
+ .text          0x00000000        0x0 /opt/arm-gnu-toolchain/bin/../lib/gcc/arm-none-eabi/14.2.1/thumb/v7e-m+fp/hard/libgcc.a(pr-support.o)
+ .data          0x00000000        0x0 /opt/arm-gnu-toolchain/bin/../lib/gcc/arm-none-eabi/14.2.1/thumb/v7e-m+fp/hard/libgcc.a(pr-support.o)
+ .bss           0x00000000        0x0 /opt/arm-gnu-toolchain/bin/../lib/gcc/arm-none-eabi/14.2.1/thumb/v7e-m+fp/hard/libgcc.a(pr-support.o)
+ .ARM.extab.text.next_unwind_byte
+                0x00000000        0x0 /opt/arm-gnu-toolchain/bin/../lib/gcc/arm-none-eabi/14.2.1/thumb/v7e-m+fp/hard/libgcc.a(pr-support.o)
+ .text._Unwind_GetGR.constprop.0
+                0x00000000       0x1c /opt/arm-gnu-toolchain/bin/../lib/gcc/arm-none-eabi/14.2.1/thumb/v7e-m+fp/hard/libgcc.a(pr-support.o)
+ .ARM.extab.text._Unwind_GetGR.constprop.0
+                0x00000000        0x0 /opt/arm-gnu-toolchain/bin/../lib/gcc/arm-none-eabi/14.2.1/thumb/v7e-m+fp/hard/libgcc.a(pr-support.o)
+ .ARM.exidx.text._Unwind_GetGR.constprop.0
+                0x00000000        0x8 /opt/arm-gnu-toolchain/bin/../lib/gcc/arm-none-eabi/14.2.1/thumb/v7e-m+fp/hard/libgcc.a(pr-support.o)
+ .text.unwind_UCB_from_context
+                0x00000000        0x4 /opt/arm-gnu-toolchain/bin/../lib/gcc/arm-none-eabi/14.2.1/thumb/v7e-m+fp/hard/libgcc.a(pr-support.o)
+ .ARM.extab.text.unwind_UCB_from_context
+                0x00000000        0x0 /opt/arm-gnu-toolchain/bin/../lib/gcc/arm-none-eabi/14.2.1/thumb/v7e-m+fp/hard/libgcc.a(pr-support.o)
+ .ARM.exidx.text.unwind_UCB_from_context
+                0x00000000        0x8 /opt/arm-gnu-toolchain/bin/../lib/gcc/arm-none-eabi/14.2.1/thumb/v7e-m+fp/hard/libgcc.a(pr-support.o)
+ .ARM.extab.text.__gnu_unwind_execute
+                0x00000000        0x0 /opt/arm-gnu-toolchain/bin/../lib/gcc/arm-none-eabi/14.2.1/thumb/v7e-m+fp/hard/libgcc.a(pr-support.o)
+ .text.__gnu_unwind_frame
+                0x00000000       0x2c /opt/arm-gnu-toolchain/bin/../lib/gcc/arm-none-eabi/14.2.1/thumb/v7e-m+fp/hard/libgcc.a(pr-support.o)
+ .ARM.extab.text.__gnu_unwind_frame
+                0x00000000        0x0 /opt/arm-gnu-toolchain/bin/../lib/gcc/arm-none-eabi/14.2.1/thumb/v7e-m+fp/hard/libgcc.a(pr-support.o)
+ .ARM.exidx.text.__gnu_unwind_frame
+                0x00000000        0x8 /opt/arm-gnu-toolchain/bin/../lib/gcc/arm-none-eabi/14.2.1/thumb/v7e-m+fp/hard/libgcc.a(pr-support.o)
+ .text._Unwind_GetRegionStart
+                0x00000000        0xc /opt/arm-gnu-toolchain/bin/../lib/gcc/arm-none-eabi/14.2.1/thumb/v7e-m+fp/hard/libgcc.a(pr-support.o)
+ .ARM.extab.text._Unwind_GetRegionStart
+                0x00000000        0xc /opt/arm-gnu-toolchain/bin/../lib/gcc/arm-none-eabi/14.2.1/thumb/v7e-m+fp/hard/libgcc.a(pr-support.o)
+ .ARM.exidx.text._Unwind_GetRegionStart
+                0x00000000        0x8 /opt/arm-gnu-toolchain/bin/../lib/gcc/arm-none-eabi/14.2.1/thumb/v7e-m+fp/hard/libgcc.a(pr-support.o)
+ .text._Unwind_GetLanguageSpecificData
+                0x00000000       0x14 /opt/arm-gnu-toolchain/bin/../lib/gcc/arm-none-eabi/14.2.1/thumb/v7e-m+fp/hard/libgcc.a(pr-support.o)
+ .ARM.extab.text._Unwind_GetLanguageSpecificData
+                0x00000000        0xc /opt/arm-gnu-toolchain/bin/../lib/gcc/arm-none-eabi/14.2.1/thumb/v7e-m+fp/hard/libgcc.a(pr-support.o)
+ .ARM.exidx.text._Unwind_GetLanguageSpecificData
+                0x00000000        0x8 /opt/arm-gnu-toolchain/bin/../lib/gcc/arm-none-eabi/14.2.1/thumb/v7e-m+fp/hard/libgcc.a(pr-support.o)
+ .text.unlikely._Unwind_GetDataRelBase
+                0x00000000        0x6 /opt/arm-gnu-toolchain/bin/../lib/gcc/arm-none-eabi/14.2.1/thumb/v7e-m+fp/hard/libgcc.a(pr-support.o)
+ .ARM.extab.text.unlikely._Unwind_GetDataRelBase
+                0x00000000        0x0 /opt/arm-gnu-toolchain/bin/../lib/gcc/arm-none-eabi/14.2.1/thumb/v7e-m+fp/hard/libgcc.a(pr-support.o)
+ .ARM.exidx.text.unlikely._Unwind_GetDataRelBase
+                0x00000000        0x8 /opt/arm-gnu-toolchain/bin/../lib/gcc/arm-none-eabi/14.2.1/thumb/v7e-m+fp/hard/libgcc.a(pr-support.o)
+ .text.unlikely._Unwind_GetTextRelBase
+                0x00000000        0x6 /opt/arm-gnu-toolchain/bin/../lib/gcc/arm-none-eabi/14.2.1/thumb/v7e-m+fp/hard/libgcc.a(pr-support.o)
+ .ARM.extab.text.unlikely._Unwind_GetTextRelBase
+                0x00000000        0x0 /opt/arm-gnu-toolchain/bin/../lib/gcc/arm-none-eabi/14.2.1/thumb/v7e-m+fp/hard/libgcc.a(pr-support.o)
+ .ARM.exidx.text.unlikely._Unwind_GetTextRelBase
+                0x00000000        0x8 /opt/arm-gnu-toolchain/bin/../lib/gcc/arm-none-eabi/14.2.1/thumb/v7e-m+fp/hard/libgcc.a(pr-support.o)
+ .text          0x00000000        0x0 /opt/arm-gnu-toolchain/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-abort.o)
+ .data          0x00000000        0x0 /opt/arm-gnu-toolchain/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-abort.o)
+ .bss           0x00000000        0x0 /opt/arm-gnu-toolchain/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-abort.o)
+ .text          0x00000000        0x0 /opt/arm-gnu-toolchain/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-signal.o)
+ .data          0x00000000        0x0 /opt/arm-gnu-toolchain/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-signal.o)
+ .bss           0x00000000        0x0 /opt/arm-gnu-toolchain/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-signal.o)
+ .text._init_signal_r
+                0x00000000       0x28 /opt/arm-gnu-toolchain/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-signal.o)
+ .text._signal_r
+                0x00000000       0x30 /opt/arm-gnu-toolchain/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-signal.o)
+ .text.__sigtramp_r
+                0x00000000       0x48 /opt/arm-gnu-toolchain/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-signal.o)
+ .text.signal   0x00000000       0x10 /opt/arm-gnu-toolchain/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-signal.o)
+ .text._init_signal
+                0x00000000        0xc /opt/arm-gnu-toolchain/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-signal.o)
+ .text.__sigtramp
+                0x00000000       0x10 /opt/arm-gnu-toolchain/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-signal.o)
+ .text          0x00000000        0x0 /opt/arm-gnu-toolchain/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-impure.o)
+ .data          0x00000000        0x0 /opt/arm-gnu-toolchain/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-impure.o)
+ .bss           0x00000000        0x0 /opt/arm-gnu-toolchain/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-impure.o)
+ .text          0x00000000        0x0 /opt/arm-gnu-toolchain/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-signalr.o)
+ .data          0x00000000        0x0 /opt/arm-gnu-toolchain/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-signalr.o)
+ .bss           0x00000000        0x0 /opt/arm-gnu-toolchain/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-signalr.o)
+ .text          0x00000000        0x0 /opt/arm-gnu-toolchain/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-mallocr.o)
+ .data          0x00000000        0x0 /opt/arm-gnu-toolchain/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-mallocr.o)
+ .bss           0x00000000        0x0 /opt/arm-gnu-toolchain/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-mallocr.o)
+ .text.sbrk_aligned
+                0x00000000       0x44 /opt/arm-gnu-toolchain/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-mallocr.o)
+ .text._malloc_r
+                0x00000000      0x100 /opt/arm-gnu-toolchain/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-mallocr.o)
+ .bss.__malloc_sbrk_start
+                0x00000000        0x4 /opt/arm-gnu-toolchain/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-mallocr.o)
+ .bss.__malloc_free_list
+                0x00000000        0x4 /opt/arm-gnu-toolchain/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-mallocr.o)
+ .debug_frame   0x00000000       0x50 /opt/arm-gnu-toolchain/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-mallocr.o)
+ .ARM.attributes
+                0x00000000       0x34 /opt/arm-gnu-toolchain/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-mallocr.o)
+ .text          0x00000000        0x0 /opt/arm-gnu-toolchain/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-mlock.o)
+ .data          0x00000000        0x0 /opt/arm-gnu-toolchain/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-mlock.o)
+ .bss           0x00000000        0x0 /opt/arm-gnu-toolchain/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-mlock.o)
+ .text.__malloc_lock
+                0x00000000        0xc /opt/arm-gnu-toolchain/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-mlock.o)
+ .text.__malloc_unlock
+                0x00000000        0xc /opt/arm-gnu-toolchain/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-mlock.o)
+ .debug_frame   0x00000000       0x30 /opt/arm-gnu-toolchain/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-mlock.o)
+ .ARM.attributes
+                0x00000000       0x34 /opt/arm-gnu-toolchain/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-mlock.o)
+ .text          0x00000000        0x0 /opt/arm-gnu-toolchain/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-reent.o)
+ .data          0x00000000        0x0 /opt/arm-gnu-toolchain/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-reent.o)
+ .bss           0x00000000        0x0 /opt/arm-gnu-toolchain/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-reent.o)
+ .text._reclaim_reent
+                0x00000000       0xbc /opt/arm-gnu-toolchain/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-reent.o)
+ .text          0x00000000        0x0 /opt/arm-gnu-toolchain/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-sbrkr.o)
+ .data          0x00000000        0x0 /opt/arm-gnu-toolchain/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-sbrkr.o)
+ .bss           0x00000000        0x0 /opt/arm-gnu-toolchain/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-sbrkr.o)
+ .text._sbrk_r  0x00000000       0x20 /opt/arm-gnu-toolchain/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-sbrkr.o)
+ .debug_frame   0x00000000       0x2c /opt/arm-gnu-toolchain/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-sbrkr.o)
+ .ARM.attributes
+                0x00000000       0x34 /opt/arm-gnu-toolchain/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-sbrkr.o)
+ .text          0x00000000        0x0 /opt/arm-gnu-toolchain/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-lock.o)
+ .data          0x00000000        0x0 /opt/arm-gnu-toolchain/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-lock.o)
+ .bss           0x00000000        0x0 /opt/arm-gnu-toolchain/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-lock.o)
+ .text.__retarget_lock_init
+                0x00000000        0x2 /opt/arm-gnu-toolchain/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-lock.o)
+ .text.__retarget_lock_init_recursive
+                0x00000000        0x2 /opt/arm-gnu-toolchain/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-lock.o)
+ .text.__retarget_lock_close
+                0x00000000        0x2 /opt/arm-gnu-toolchain/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-lock.o)
+ .text.__retarget_lock_close_recursive
+                0x00000000        0x2 /opt/arm-gnu-toolchain/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-lock.o)
+ .text.__retarget_lock_acquire
+                0x00000000        0x2 /opt/arm-gnu-toolchain/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-lock.o)
+ .text.__retarget_lock_acquire_recursive
+                0x00000000        0x2 /opt/arm-gnu-toolchain/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-lock.o)
+ .text.__retarget_lock_try_acquire
+                0x00000000        0x4 /opt/arm-gnu-toolchain/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-lock.o)
+ .text.__retarget_lock_try_acquire_recursive
+                0x00000000        0x4 /opt/arm-gnu-toolchain/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-lock.o)
+ .text.__retarget_lock_release
+                0x00000000        0x2 /opt/arm-gnu-toolchain/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-lock.o)
+ .text.__retarget_lock_release_recursive
+                0x00000000        0x2 /opt/arm-gnu-toolchain/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-lock.o)
+ .bss.__lock___arc4random_mutex
+                0x00000000        0x1 /opt/arm-gnu-toolchain/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-lock.o)
+ .bss.__lock___dd_hash_mutex
+                0x00000000        0x1 /opt/arm-gnu-toolchain/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-lock.o)
+ .bss.__lock___tz_mutex
+                0x00000000        0x1 /opt/arm-gnu-toolchain/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-lock.o)
+ .bss.__lock___env_recursive_mutex
+                0x00000000        0x1 /opt/arm-gnu-toolchain/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-lock.o)
+ .bss.__lock___malloc_recursive_mutex
+                0x00000000        0x1 /opt/arm-gnu-toolchain/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-lock.o)
+ .bss.__lock___at_quick_exit_mutex
+                0x00000000        0x1 /opt/arm-gnu-toolchain/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-lock.o)
+ .bss.__lock___atexit_recursive_mutex
+                0x00000000        0x1 /opt/arm-gnu-toolchain/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-lock.o)
+ .bss.__lock___sfp_recursive_mutex
+                0x00000000        0x1 /opt/arm-gnu-toolchain/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-lock.o)
+ .debug_frame   0x00000000       0xb0 /opt/arm-gnu-toolchain/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-lock.o)
+ .ARM.attributes
+                0x00000000       0x34 /opt/arm-gnu-toolchain/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-lock.o)
+ .text          0x00000000        0x0 /opt/arm-gnu-toolchain/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-freer.o)
+ .data          0x00000000        0x0 /opt/arm-gnu-toolchain/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-freer.o)
+ .bss           0x00000000        0x0 /opt/arm-gnu-toolchain/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-freer.o)
+ .text._free_r  0x00000000       0x94 /opt/arm-gnu-toolchain/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-freer.o)
+ .debug_frame   0x00000000       0x38 /opt/arm-gnu-toolchain/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-freer.o)
+ .ARM.attributes
+                0x00000000       0x34 /opt/arm-gnu-toolchain/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-freer.o)
+ .text          0x00000000        0x0 /opt/arm-gnu-toolchain/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libnosys.a(getpid.o)
+ .data          0x00000000        0x0 /opt/arm-gnu-toolchain/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libnosys.a(getpid.o)
+ .bss           0x00000000        0x0 /opt/arm-gnu-toolchain/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libnosys.a(getpid.o)
+ .gnu.warning._getpid
+                0x00000000        0x0 /opt/arm-gnu-toolchain/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libnosys.a(getpid.o)
+ .text          0x00000000        0x0 /opt/arm-gnu-toolchain/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libnosys.a(kill.o)
+ .data          0x00000000        0x0 /opt/arm-gnu-toolchain/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libnosys.a(kill.o)
+ .bss           0x00000000        0x0 /opt/arm-gnu-toolchain/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libnosys.a(kill.o)
+ .gnu.warning._kill
+                0x00000000        0x0 /opt/arm-gnu-toolchain/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libnosys.a(kill.o)
+ .text          0x00000000        0x0 /opt/arm-gnu-toolchain/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libnosys.a(sbrk.o)
+ .data          0x00000000        0x0 /opt/arm-gnu-toolchain/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libnosys.a(sbrk.o)
+ .bss           0x00000000        0x0 /opt/arm-gnu-toolchain/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libnosys.a(sbrk.o)
+ .text._sbrk    0x00000000       0x1c /opt/arm-gnu-toolchain/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libnosys.a(sbrk.o)
+ .bss.heap_end.0
+                0x00000000        0x4 /opt/arm-gnu-toolchain/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libnosys.a(sbrk.o)
+ .debug_frame   0x00000000       0x20 /opt/arm-gnu-toolchain/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libnosys.a(sbrk.o)
+ .ARM.attributes
+                0x00000000       0x34 /opt/arm-gnu-toolchain/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libnosys.a(sbrk.o)
+ .text          0x00000000        0x0 /opt/arm-gnu-toolchain/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libnosys.a(_exit.o)
+ .data          0x00000000        0x0 /opt/arm-gnu-toolchain/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libnosys.a(_exit.o)
+ .bss           0x00000000        0x0 /opt/arm-gnu-toolchain/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libnosys.a(_exit.o)
+
+Memory Configuration
+
+Name             Origin             Length             Attributes
+FLASH_1_cached   0x08000000         0x00200000         xr
+FLASH_1_uncached 0x0c000000         0x00200000         xr
+PSRAM_1          0x1ffe8000         0x00018000         !xr
+DSRAM_1_system   0x20000000         0x00020000         !xr
+DSRAM_2_comm     0x20020000         0x00020000         !xr
+SRAM_combined    0x1ffe8000         0x00058000         !xr
+*default*        0x00000000         0xffffffff
+
+Linker script and memory map
+
+LOAD /opt/arm-gnu-toolchain/bin/../lib/gcc/arm-none-eabi/14.2.1/thumb/v7e-m+fp/hard/libgcc.a
+                0x00000800                        stack_size = DEFINED (stack_size)?stack_size:0x800
+                0x00000040                        no_init_size = 0x40
+
+.text           0x08000000     0x19ac load address 0x0c000000
+                0x08000000                        sText = .
+ *(.reset)
+ .reset         0x08000000      0x29a CMakeFiles/xmclib-blinky.elf.dir/src/startup_XMC4700.S.o
+                0x08000000                __Vectors
+                0x08000200                Reset_Handler
+                0x08000298                VADC0_C0_3_IRQHandler
+                0x08000298                DSD0_7_IRQHandler
+                0x08000298                DebugMon_Handler
+                0x08000298                VADC0_C0_0_IRQHandler
+                0x08000298                CAN0_4_IRQHandler
+                0x08000298                VADC0_G2_0_IRQHandler
+                0x08000298                USIC0_5_IRQHandler
+                0x08000298                POSIF0_0_IRQHandler
+                0x08000298                POSIF1_0_IRQHandler
+                0x08000298                HardFault_Handler
+                0x08000298                VADC0_G1_1_IRQHandler
+                0x08000298                SysTick_Handler
+                0x08000298                PendSV_Handler
+                0x08000298                NMI_Handler
+                0x08000298                USIC1_3_IRQHandler
+                0x08000298                CCU40_2_IRQHandler
+                0x08000298                SCU_0_IRQHandler
+                0x08000298                ERU0_0_IRQHandler
+                0x08000298                CCU41_0_IRQHandler
+                0x08000298                USIC1_5_IRQHandler
+                0x08000298                DSD0_4_IRQHandler
+                0x08000298                CCU80_1_IRQHandler
+                0x08000298                CCU81_0_IRQHandler
+                0x08000298                UsageFault_Handler
+                0x08000298                USIC0_0_IRQHandler
+                0x08000298                POSIF1_1_IRQHandler
+                0x08000298                ERU0_2_IRQHandler
+                0x08000298                CCU81_1_IRQHandler
+                0x08000298                ERU1_1_IRQHandler
+                0x08000298                VADC0_G2_3_IRQHandler
+                0x08000298                VADC0_G2_2_IRQHandler
+                0x08000298                CCU42_3_IRQHandler
+                0x08000298                ERU0_3_IRQHandler
+                0x08000298                DSD0_5_IRQHandler
+                0x08000298                CAN0_6_IRQHandler
+                0x08000298                CCU43_0_IRQHandler
+                0x08000298                VADC0_G0_1_IRQHandler
+                0x08000298                CCU81_2_IRQHandler
+                0x08000298                USIC2_4_IRQHandler
+                0x08000298                CCU81_3_IRQHandler
+                0x08000298                CCU42_1_IRQHandler
+                0x08000298                USIC1_1_IRQHandler
+                0x08000298                USIC2_5_IRQHandler
+                0x08000298                CCU40_0_IRQHandler
+                0x08000298                CAN0_0_IRQHandler
+                0x08000298                ERU1_0_IRQHandler
+                0x08000298                CCU42_2_IRQHandler
+                0x08000298                Default_Handler
+                0x08000298                USIC1_4_IRQHandler
+                0x08000298                ERU1_3_IRQHandler
+                0x08000298                USIC1_0_IRQHandler
+                0x08000298                POSIF0_1_IRQHandler
+                0x08000298                VADC0_G0_0_IRQHandler
+                0x08000298                DSD0_2_IRQHandler
+                0x08000298                CCU80_3_IRQHandler
+                0x08000298                CCU41_3_IRQHandler
+                0x08000298                CCU80_2_IRQHandler
+                0x08000298                VADC0_G1_3_IRQHandler
+                0x08000298                VADC0_G0_3_IRQHandler
+                0x08000298                GPDMA0_0_IRQHandler
+                0x08000298                PMU0_0_IRQHandler
+                0x08000298                CAN0_7_IRQHandler
+                0x08000298                DSD0_1_IRQHandler
+                0x08000298                CCU41_2_IRQHandler
+                0x08000298                VADC0_C0_1_IRQHandler
+                0x08000298                CCU43_2_IRQHandler
+                0x08000298                USIC2_2_IRQHandler
+                0x08000298                MemManage_Handler
+                0x08000298                VADC0_G3_1_IRQHandler
+                0x08000298                DAC0_0_IRQHandler
+                0x08000298                SVC_Handler
+                0x08000298                VADC0_G3_3_IRQHandler
+                0x08000298                ERU1_2_IRQHandler
+                0x08000298                CCU41_1_IRQHandler
+                0x08000298                DSD0_6_IRQHandler
+                0x08000298                CCU43_1_IRQHandler
+                0x08000298                VADC0_G1_2_IRQHandler
+                0x08000298                USIC2_3_IRQHandler
+                0x08000298                CAN0_2_IRQHandler
+                0x08000298                USIC2_0_IRQHandler
+                0x08000298                VADC0_G0_2_IRQHandler
+                0x08000298                VADC0_G2_1_IRQHandler
+                0x08000298                CAN0_3_IRQHandler
+                0x08000298                ETH0_0_IRQHandler
+                0x08000298                USIC0_3_IRQHandler
+                0x08000298                DSD0_0_IRQHandler
+                0x08000298                VADC0_C0_2_IRQHandler
+                0x08000298                CCU42_0_IRQHandler
+                0x08000298                FCE0_0_IRQHandler
+                0x08000298                VADC0_G1_0_IRQHandler
+                0x08000298                USB0_0_IRQHandler
+                0x08000298                CAN0_5_IRQHandler
+                0x08000298                CCU80_0_IRQHandler
+                0x08000298                CCU40_1_IRQHandler
+                0x08000298                USIC2_1_IRQHandler
+                0x08000298                USIC0_1_IRQHandler
+                0x08000298                VADC0_G3_2_IRQHandler
+                0x08000298                CCU40_3_IRQHandler
+                0x08000298                BusFault_Handler
+                0x08000298                LEDTS0_0_IRQHandler
+                0x08000298                USIC0_4_IRQHandler
+                0x08000298                CCU43_3_IRQHandler
+                0x08000298                ERU0_1_IRQHandler
+                0x08000298                VADC0_G3_0_IRQHandler
+                0x08000298                USIC1_2_IRQHandler
+                0x08000298                DSD0_3_IRQHandler
+                0x08000298                SDMMC0_0_IRQHandler
+                0x08000298                CAN0_1_IRQHandler
+                0x08000298                USIC0_2_IRQHandler
+                0x08000298                DAC0_1_IRQHandler
+                0x08000298                GPDMA1_0_IRQHandler
+ *(.text .text.* .gnu.linkonce.t.*)
+ .text._ZN3led5beginEv
+                0x0800029a       0x18 CMakeFiles/xmclib-blinky.elf.dir/src/main.cpp.o
+                0x0800029a                led::begin()
+ .text._ZN3led6toggleEv
+                0x080002b2       0x18 CMakeFiles/xmclib-blinky.elf.dir/src/main.cpp.o
+                0x080002b2                led::toggle()
+ .text._init    0x080002ca        0xe CMakeFiles/xmclib-blinky.elf.dir/src/main.cpp.o
+                0x080002ca                _init
+ .text._fini    0x080002d8        0xe CMakeFiles/xmclib-blinky.elf.dir/src/main.cpp.o
+                0x080002d8                _fini
+ .text._Z5delaym
+                0x080002e6       0x2e CMakeFiles/xmclib-blinky.elf.dir/src/main.cpp.o
+                0x080002e6                delay(unsigned long)
+ .text.main     0x08000314       0x3c CMakeFiles/xmclib-blinky.elf.dir/src/main.cpp.o
+                0x08000314                main
+ .text.delay    0x08000350       0x2c CMakeFiles/xmclib-blinky.elf.dir/src/system_XMC4700.c.o
+ .text.SystemInit
+                0x0800037c       0x20 CMakeFiles/xmclib-blinky.elf.dir/src/system_XMC4700.c.o
+                0x0800037c                SystemInit
+ .text.SystemCoreSetup
+                0x0800039c       0x74 CMakeFiles/xmclib-blinky.elf.dir/src/system_XMC4700.c.o
+                0x0800039c                SystemCoreSetup
+ .text.SystemCoreClockSetup
+                0x08000410      0x204 CMakeFiles/xmclib-blinky.elf.dir/src/system_XMC4700.c.o
+                0x08000410                SystemCoreClockSetup
+ .text.SystemCoreClockUpdate
+                0x08000614       0xd4 CMakeFiles/xmclib-blinky.elf.dir/src/system_XMC4700.c.o
+                0x08000614                SystemCoreClockUpdate
+ .text.OSCHP_GetFrequency
+                0x080006e8       0x14 CMakeFiles/xmclib-blinky.elf.dir/src/system_XMC4700.c.o
+                0x080006e8                OSCHP_GetFrequency
+ .text._ZN4gpio12get_xmc_modeE9gpio_mode
+                0x080006fc       0x48 CMakeFiles/xmclib-blinky.elf.dir/src/gpio.cpp.o
+                0x080006fc                gpio::get_xmc_mode(gpio_mode)
+ .text._ZN4gpio12get_xmc_portEh
+                0x08000744       0x30 CMakeFiles/xmclib-blinky.elf.dir/src/gpio.cpp.o
+                0x08000744                gpio::get_xmc_port(unsigned char)
+ .text._ZN4gpio5beginEv
+                0x08000774       0x16 CMakeFiles/xmclib-blinky.elf.dir/src/gpio.cpp.o
+                0x08000774                gpio::begin()
+ .text._ZN4gpio8set_modeEv
+                0x0800078a       0x82 CMakeFiles/xmclib-blinky.elf.dir/src/gpio.cpp.o
+                0x0800078a                gpio::set_mode()
+ .text._ZN4gpio6toggleEv
+                0x0800080c       0x26 CMakeFiles/xmclib-blinky.elf.dir/src/gpio.cpp.o
+                0x0800080c                gpio::toggle()
+ .text._ZN4gpioC2Ehh9gpio_mode
+                0x08000832       0x34 CMakeFiles/xmclib-blinky.elf.dir/src/boards/xmc47_relax_kit.cpp.o
+                0x08000832                gpio::gpio(unsigned char, unsigned char, gpio_mode)
+                0x08000832                gpio::gpio(unsigned char, unsigned char, gpio_mode)
+ .text._ZN4gpioC2Ehh9gpio_mode10gpio_level
+                0x08000866       0x5c CMakeFiles/xmclib-blinky.elf.dir/src/boards/xmc47_relax_kit.cpp.o
+                0x08000866                gpio::gpio(unsigned char, unsigned char, gpio_mode, gpio_level)
+                0x08000866                gpio::gpio(unsigned char, unsigned char, gpio_mode, gpio_level)
+ .text._ZN3ledC2Ehh
+                0x080008c2       0x26 CMakeFiles/xmclib-blinky.elf.dir/src/boards/xmc47_relax_kit.cpp.o
+                0x080008c2                led::led(unsigned char, unsigned char)
+                0x080008c2                led::led(unsigned char, unsigned char)
+ .text._Z41__static_initialization_and_destruction_0v
+                0x080008e8       0x24 CMakeFiles/xmclib-blinky.elf.dir/src/boards/xmc47_relax_kit.cpp.o
+ .text._GLOBAL__sub_I_builtin_led1
+                0x0800090c        0xa CMakeFiles/xmclib-blinky.elf.dir/src/boards/xmc47_relax_kit.cpp.o
+ *fill*         0x08000916        0x2 
+ .text.__libc_init_array
+                0x08000918       0x48 /opt/arm-gnu-toolchain/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-init.o)
+                0x08000918                __libc_init_array
+ .text.memcpy   0x08000960       0x1c /opt/arm-gnu-toolchain/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-memcpy-stub.o)
+                0x08000960                memcpy
+ .text.selfrel_offset31
+                0x0800097c       0x14 /opt/arm-gnu-toolchain/bin/../lib/gcc/arm-none-eabi/14.2.1/thumb/v7e-m+fp/hard/libgcc.a(unwind-arm.o)
+ .text.search_EIT_table
+                0x08000990       0x68 /opt/arm-gnu-toolchain/bin/../lib/gcc/arm-none-eabi/14.2.1/thumb/v7e-m+fp/hard/libgcc.a(unwind-arm.o)
+ .text.__gnu_unwind_get_pr_addr
+                0x080009f8       0x28 /opt/arm-gnu-toolchain/bin/../lib/gcc/arm-none-eabi/14.2.1/thumb/v7e-m+fp/hard/libgcc.a(unwind-arm.o)
+ .text.get_eit_entry
+                0x08000a20       0x98 /opt/arm-gnu-toolchain/bin/../lib/gcc/arm-none-eabi/14.2.1/thumb/v7e-m+fp/hard/libgcc.a(unwind-arm.o)
+ .text.restore_non_core_regs
+                0x08000ab8       0x58 /opt/arm-gnu-toolchain/bin/../lib/gcc/arm-none-eabi/14.2.1/thumb/v7e-m+fp/hard/libgcc.a(unwind-arm.o)
+ .text._Unwind_decode_typeinfo_ptr.constprop.0
+                0x08000b10        0xc /opt/arm-gnu-toolchain/bin/../lib/gcc/arm-none-eabi/14.2.1/thumb/v7e-m+fp/hard/libgcc.a(unwind-arm.o)
+ .text._Unwind_DebugHook
+                0x08000b1c        0x4 /opt/arm-gnu-toolchain/bin/../lib/gcc/arm-none-eabi/14.2.1/thumb/v7e-m+fp/hard/libgcc.a(unwind-arm.o)
+ .text.unwind_phase2
+                0x08000b20       0x3c /opt/arm-gnu-toolchain/bin/../lib/gcc/arm-none-eabi/14.2.1/thumb/v7e-m+fp/hard/libgcc.a(unwind-arm.o)
+ .text.unwind_phase2_forced
+                0x08000b5c       0xdc /opt/arm-gnu-toolchain/bin/../lib/gcc/arm-none-eabi/14.2.1/thumb/v7e-m+fp/hard/libgcc.a(unwind-arm.o)
+ .text.__gnu_Unwind_RaiseException
+                0x08000c38       0x6c /opt/arm-gnu-toolchain/bin/../lib/gcc/arm-none-eabi/14.2.1/thumb/v7e-m+fp/hard/libgcc.a(unwind-arm.o)
+                0x08000c38                __gnu_Unwind_RaiseException
+ .text.__gnu_Unwind_ForcedUnwind
+                0x08000ca4       0x10 /opt/arm-gnu-toolchain/bin/../lib/gcc/arm-none-eabi/14.2.1/thumb/v7e-m+fp/hard/libgcc.a(unwind-arm.o)
+                0x08000ca4                __gnu_Unwind_ForcedUnwind
+ .text.__gnu_Unwind_Resume
+                0x08000cb4       0x44 /opt/arm-gnu-toolchain/bin/../lib/gcc/arm-none-eabi/14.2.1/thumb/v7e-m+fp/hard/libgcc.a(unwind-arm.o)
+                0x08000cb4                __gnu_Unwind_Resume
+ .text.__gnu_Unwind_Resume_or_Rethrow
+                0x08000cf8       0x1c /opt/arm-gnu-toolchain/bin/../lib/gcc/arm-none-eabi/14.2.1/thumb/v7e-m+fp/hard/libgcc.a(unwind-arm.o)
+                0x08000cf8                __gnu_Unwind_Resume_or_Rethrow
+ .text._Unwind_VRS_Get
+                0x08000d14       0x34 /opt/arm-gnu-toolchain/bin/../lib/gcc/arm-none-eabi/14.2.1/thumb/v7e-m+fp/hard/libgcc.a(unwind-arm.o)
+                0x08000d14                _Unwind_VRS_Get
+ .text._Unwind_GetGR
+                0x08000d48       0x1c /opt/arm-gnu-toolchain/bin/../lib/gcc/arm-none-eabi/14.2.1/thumb/v7e-m+fp/hard/libgcc.a(unwind-arm.o)
+ .text._Unwind_VRS_Set
+                0x08000d64       0x34 /opt/arm-gnu-toolchain/bin/../lib/gcc/arm-none-eabi/14.2.1/thumb/v7e-m+fp/hard/libgcc.a(unwind-arm.o)
+                0x08000d64                _Unwind_VRS_Set
+ .text._Unwind_SetGR
+                0x08000d98       0x18 /opt/arm-gnu-toolchain/bin/../lib/gcc/arm-none-eabi/14.2.1/thumb/v7e-m+fp/hard/libgcc.a(unwind-arm.o)
+ .text.__gnu_Unwind_Backtrace
+                0x08000db0       0x90 /opt/arm-gnu-toolchain/bin/../lib/gcc/arm-none-eabi/14.2.1/thumb/v7e-m+fp/hard/libgcc.a(unwind-arm.o)
+                0x08000db0                __gnu_Unwind_Backtrace
+ .text.__gnu_unwind_pr_common
+                0x08000e40      0x2a8 /opt/arm-gnu-toolchain/bin/../lib/gcc/arm-none-eabi/14.2.1/thumb/v7e-m+fp/hard/libgcc.a(unwind-arm.o)
+ .text.__aeabi_unwind_cpp_pr0
+                0x080010e8        0x8 /opt/arm-gnu-toolchain/bin/../lib/gcc/arm-none-eabi/14.2.1/thumb/v7e-m+fp/hard/libgcc.a(unwind-arm.o)
+                0x080010e8                __aeabi_unwind_cpp_pr0
+ .text.__aeabi_unwind_cpp_pr1
+                0x080010f0        0x8 /opt/arm-gnu-toolchain/bin/../lib/gcc/arm-none-eabi/14.2.1/thumb/v7e-m+fp/hard/libgcc.a(unwind-arm.o)
+                0x080010f0                __aeabi_unwind_cpp_pr1
+ .text.__aeabi_unwind_cpp_pr2
+                0x080010f8        0x8 /opt/arm-gnu-toolchain/bin/../lib/gcc/arm-none-eabi/14.2.1/thumb/v7e-m+fp/hard/libgcc.a(unwind-arm.o)
+                0x080010f8                __aeabi_unwind_cpp_pr2
+ .text._Unwind_VRS_Pop
+                0x08001100      0x2ec /opt/arm-gnu-toolchain/bin/../lib/gcc/arm-none-eabi/14.2.1/thumb/v7e-m+fp/hard/libgcc.a(unwind-arm.o)
+                0x08001100                _Unwind_VRS_Pop
+ .text          0x080013ec      0x1ac /opt/arm-gnu-toolchain/bin/../lib/gcc/arm-none-eabi/14.2.1/thumb/v7e-m+fp/hard/libgcc.a(libunwind.o)
+                0x080013ec                __restore_core_regs
+                0x080013ec                restore_core_regs
+                0x08001404                __gnu_Unwind_Restore_VFP
+                0x0800140c                __gnu_Unwind_Save_VFP
+                0x08001414                __gnu_Unwind_Restore_VFP_D
+                0x0800141c                __gnu_Unwind_Save_VFP_D
+                0x08001424                __gnu_Unwind_Restore_VFP_D_16_to_31
+                0x0800142c                __gnu_Unwind_Save_VFP_D_16_to_31
+                0x08001434                __gnu_Unwind_Restore_WMMXD
+                0x08001478                __gnu_Unwind_Save_WMMXD
+                0x080014bc                __gnu_Unwind_Restore_WMMXC
+                0x080014d0                __gnu_Unwind_Save_WMMXC
+                0x080014e4                ___Unwind_RaiseException
+                0x080014e4                _Unwind_RaiseException
+                0x08001508                ___Unwind_Resume
+                0x08001508                _Unwind_Resume
+                0x0800152c                _Unwind_Resume_or_Rethrow
+                0x0800152c                ___Unwind_Resume_or_Rethrow
+                0x08001550                ___Unwind_ForcedUnwind
+                0x08001550                _Unwind_ForcedUnwind
+                0x08001574                _Unwind_Backtrace
+                0x08001574                ___Unwind_Backtrace
+ .text.next_unwind_byte
+                0x08001598       0x38 /opt/arm-gnu-toolchain/bin/../lib/gcc/arm-none-eabi/14.2.1/thumb/v7e-m+fp/hard/libgcc.a(pr-support.o)
+ .text.__gnu_unwind_execute
+                0x080015d0      0x300 /opt/arm-gnu-toolchain/bin/../lib/gcc/arm-none-eabi/14.2.1/thumb/v7e-m+fp/hard/libgcc.a(pr-support.o)
+                0x080015d0                __gnu_unwind_execute
+ .text.abort    0x080018d0        0xe /opt/arm-gnu-toolchain/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-abort.o)
+                0x080018d0                abort
+ .text._raise_r
+                0x080018de       0x50 /opt/arm-gnu-toolchain/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-signal.o)
+                0x080018de                _raise_r
+ *fill*         0x0800192e        0x2 
+ .text.raise    0x08001930       0x10 /opt/arm-gnu-toolchain/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-signal.o)
+                0x08001930                raise
+ .text._kill_r  0x08001940       0x24 /opt/arm-gnu-toolchain/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-signalr.o)
+                0x08001940                _kill_r
+ .text._getpid_r
+                0x08001964        0x4 /opt/arm-gnu-toolchain/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-signalr.o)
+                0x08001964                _getpid_r
+ .text._getpid  0x08001968       0x10 /opt/arm-gnu-toolchain/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libnosys.a(getpid.o)
+                0x08001968                _getpid
+ .text._kill    0x08001978       0x10 /opt/arm-gnu-toolchain/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libnosys.a(kill.o)
+                0x08001978                _kill
+ .text._exit    0x08001988        0x4 /opt/arm-gnu-toolchain/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libnosys.a(_exit.o)
+                0x08001988                _exit
+ *(.init)
+ *(.fini)
+ *crtbegin.o(.ctors)
+ *crtbegin?.o(.ctors)
+ *(EXCLUDE_FILE(*crtend.o *crtend?.o) .ctors)
+ *(SORT_BY_NAME(.ctors.*))
+ *(.ctors)
+ *crtbegin.o(.dtors)
+ *crtbegin?.o(.dtors)
+ *(EXCLUDE_FILE(*crtend.o *crtend?.o) .dtors)
+ *(SORT_BY_NAME(.dtors.*))
+ *(.dtors)
+ *(.rodata .rodata.*)
+ .rodata._ZZN4gpio12get_xmc_portEhE14XMC_GPIO_PORTS
+                0x0800198c       0x20 CMakeFiles/xmclib-blinky.elf.dir/src/gpio.cpp.o
+ *(.gnu.linkonce.r*)
+                0x080019ac                        . = ALIGN (0x4)
+
+.glue_7         0x080019ac        0x0 load address 0x0c0019ac
+ .glue_7        0x080019ac        0x0 linker stubs
+
+.glue_7t        0x080019ac        0x0 load address 0x0c0019ac
+ .glue_7t       0x080019ac        0x0 linker stubs
+
+.vfp11_veneer   0x080019ac        0x0 load address 0x0c0019ac
+ .vfp11_veneer  0x080019ac        0x0 linker stubs
+
+.v4_bx          0x080019ac        0x0 load address 0x0c0019ac
+ .v4_bx         0x080019ac        0x0 linker stubs
+
+.iplt           0x080019ac        0x0 load address 0x0c0019ac
+ .iplt          0x080019ac        0x0 CMakeFiles/xmclib-blinky.elf.dir/src/main.cpp.o
+
+.ARM.extab      0x080019ac       0x48 load address 0x0c0019ac
+ *(.ARM.extab* .gnu.linkonce.armextab.*)
+ .ARM.extab.text._ZN3led5beginEv
+                0x080019ac        0xc CMakeFiles/xmclib-blinky.elf.dir/src/main.cpp.o
+ .ARM.extab.text._ZN3led6toggleEv
+                0x080019b8        0xc CMakeFiles/xmclib-blinky.elf.dir/src/main.cpp.o
+ .ARM.extab.text._ZN4gpioC2Ehh9gpio_mode
+                0x080019c4        0xc CMakeFiles/xmclib-blinky.elf.dir/src/boards/xmc47_relax_kit.cpp.o
+ .ARM.extab.text._ZN4gpioC2Ehh9gpio_mode10gpio_level
+                0x080019d0        0xc CMakeFiles/xmclib-blinky.elf.dir/src/boards/xmc47_relax_kit.cpp.o
+ .ARM.extab.text._ZN3ledC2Ehh
+                0x080019dc        0xc CMakeFiles/xmclib-blinky.elf.dir/src/boards/xmc47_relax_kit.cpp.o
+ .ARM.extab.text.__gnu_Unwind_Resume_or_Rethrow
+                0x080019e8        0xc /opt/arm-gnu-toolchain/bin/../lib/gcc/arm-none-eabi/14.2.1/thumb/v7e-m+fp/hard/libgcc.a(unwind-arm.o)
+                0x080019f4                        __exidx_start = .
+
+.ARM.exidx      0x080019f4       0xd0 load address 0x0c0019f4
+ *(.ARM.exidx* .gnu.linkonce.armexidx.*)
+ .ARM.exidx.text._ZN3led5beginEv
+                0x080019f4        0x8 CMakeFiles/xmclib-blinky.elf.dir/src/main.cpp.o
+ .ARM.exidx.text._ZN3led6toggleEv
+                0x080019fc        0x8 CMakeFiles/xmclib-blinky.elf.dir/src/main.cpp.o
+ .ARM.exidx.text._init
+                0x08001a04        0x8 CMakeFiles/xmclib-blinky.elf.dir/src/main.cpp.o
+ .ARM.exidx.text._fini
+                0x08001a0c        0x0 CMakeFiles/xmclib-blinky.elf.dir/src/main.cpp.o
+                                  0x8 (size before relaxing)
+ .ARM.exidx.text._Z5delaym
+                0x08001a0c        0x0 CMakeFiles/xmclib-blinky.elf.dir/src/main.cpp.o
+                                  0x8 (size before relaxing)
+ .ARM.exidx.text.main
+                0x08001a0c       0x10 CMakeFiles/xmclib-blinky.elf.dir/src/main.cpp.o
+                                  0x8 (size before relaxing)
+ .ARM.exidx.text._ZN4gpio12get_xmc_modeE9gpio_mode
+                0x08001a1c        0x0 CMakeFiles/xmclib-blinky.elf.dir/src/gpio.cpp.o
+                                  0x8 (size before relaxing)
+ .ARM.exidx.text._ZN4gpio12get_xmc_portEh
+                0x08001a1c        0x0 CMakeFiles/xmclib-blinky.elf.dir/src/gpio.cpp.o
+                                  0x8 (size before relaxing)
+ .ARM.exidx.text._ZN4gpio5beginEv
+                0x08001a1c        0x0 CMakeFiles/xmclib-blinky.elf.dir/src/gpio.cpp.o
+                                  0x8 (size before relaxing)
+ .ARM.exidx.text._ZN4gpio8set_modeEv
+                0x08001a1c        0x0 CMakeFiles/xmclib-blinky.elf.dir/src/gpio.cpp.o
+                                  0x8 (size before relaxing)
+ .ARM.exidx.text._ZN4gpio6toggleEv
+                0x08001a1c        0x0 CMakeFiles/xmclib-blinky.elf.dir/src/gpio.cpp.o
+                                  0x8 (size before relaxing)
+ .ARM.exidx.text._ZN4gpioC2Ehh9gpio_mode
+                0x08001a1c        0x8 CMakeFiles/xmclib-blinky.elf.dir/src/boards/xmc47_relax_kit.cpp.o
+ .ARM.exidx.text._ZN4gpioC2Ehh9gpio_mode10gpio_level
+                0x08001a24        0x8 CMakeFiles/xmclib-blinky.elf.dir/src/boards/xmc47_relax_kit.cpp.o
+ .ARM.exidx.text._ZN3ledC2Ehh
+                0x08001a2c        0x8 CMakeFiles/xmclib-blinky.elf.dir/src/boards/xmc47_relax_kit.cpp.o
+ .ARM.exidx.text._Z41__static_initialization_and_destruction_0v
+                0x08001a34        0x8 CMakeFiles/xmclib-blinky.elf.dir/src/boards/xmc47_relax_kit.cpp.o
+ .ARM.exidx.text._GLOBAL__sub_I_builtin_led1
+                0x08001a3c        0x0 CMakeFiles/xmclib-blinky.elf.dir/src/boards/xmc47_relax_kit.cpp.o
+                                  0x8 (size before relaxing)
+ .ARM.exidx.text.selfrel_offset31
+                0x08001a3c        0x0 /opt/arm-gnu-toolchain/bin/../lib/gcc/arm-none-eabi/14.2.1/thumb/v7e-m+fp/hard/libgcc.a(unwind-arm.o)
+                                  0x8 (size before relaxing)
+ .ARM.exidx.text.search_EIT_table
+                0x08001a3c        0x0 /opt/arm-gnu-toolchain/bin/../lib/gcc/arm-none-eabi/14.2.1/thumb/v7e-m+fp/hard/libgcc.a(unwind-arm.o)
+                                  0x8 (size before relaxing)
+ .ARM.exidx.text.__gnu_unwind_get_pr_addr
+                0x08001a3c        0x0 /opt/arm-gnu-toolchain/bin/../lib/gcc/arm-none-eabi/14.2.1/thumb/v7e-m+fp/hard/libgcc.a(unwind-arm.o)
+                                  0x8 (size before relaxing)
+ .ARM.exidx.text.get_eit_entry
+                0x08001a3c        0x8 /opt/arm-gnu-toolchain/bin/../lib/gcc/arm-none-eabi/14.2.1/thumb/v7e-m+fp/hard/libgcc.a(unwind-arm.o)
+ .ARM.exidx.text.restore_non_core_regs
+                0x08001a44        0x8 /opt/arm-gnu-toolchain/bin/../lib/gcc/arm-none-eabi/14.2.1/thumb/v7e-m+fp/hard/libgcc.a(unwind-arm.o)
+ .ARM.exidx.text._Unwind_decode_typeinfo_ptr.constprop.0
+                0x08001a4c        0x8 /opt/arm-gnu-toolchain/bin/../lib/gcc/arm-none-eabi/14.2.1/thumb/v7e-m+fp/hard/libgcc.a(unwind-arm.o)
+ .ARM.exidx.text._Unwind_DebugHook
+                0x08001a54        0x0 /opt/arm-gnu-toolchain/bin/../lib/gcc/arm-none-eabi/14.2.1/thumb/v7e-m+fp/hard/libgcc.a(unwind-arm.o)
+                                  0x8 (size before relaxing)
+ .ARM.exidx.text.unwind_phase2
+                0x08001a54        0x8 /opt/arm-gnu-toolchain/bin/../lib/gcc/arm-none-eabi/14.2.1/thumb/v7e-m+fp/hard/libgcc.a(unwind-arm.o)
+ .ARM.exidx.text.unwind_phase2_forced
+                0x08001a5c        0x8 /opt/arm-gnu-toolchain/bin/../lib/gcc/arm-none-eabi/14.2.1/thumb/v7e-m+fp/hard/libgcc.a(unwind-arm.o)
+ .ARM.exidx.text.__gnu_Unwind_RaiseException
+                0x08001a64        0x8 /opt/arm-gnu-toolchain/bin/../lib/gcc/arm-none-eabi/14.2.1/thumb/v7e-m+fp/hard/libgcc.a(unwind-arm.o)
+ .ARM.exidx.text.__gnu_Unwind_ForcedUnwind
+                0x08001a6c        0x8 /opt/arm-gnu-toolchain/bin/../lib/gcc/arm-none-eabi/14.2.1/thumb/v7e-m+fp/hard/libgcc.a(unwind-arm.o)
+ .ARM.exidx.text.__gnu_Unwind_Resume
+                0x08001a74        0x8 /opt/arm-gnu-toolchain/bin/../lib/gcc/arm-none-eabi/14.2.1/thumb/v7e-m+fp/hard/libgcc.a(unwind-arm.o)
+ .ARM.exidx.text.__gnu_Unwind_Resume_or_Rethrow
+                0x08001a7c        0x8 /opt/arm-gnu-toolchain/bin/../lib/gcc/arm-none-eabi/14.2.1/thumb/v7e-m+fp/hard/libgcc.a(unwind-arm.o)
+ .ARM.exidx.text._Unwind_VRS_Get
+                0x08001a84        0x8 /opt/arm-gnu-toolchain/bin/../lib/gcc/arm-none-eabi/14.2.1/thumb/v7e-m+fp/hard/libgcc.a(unwind-arm.o)
+ .ARM.exidx.text._Unwind_GetGR
+                0x08001a8c        0x0 /opt/arm-gnu-toolchain/bin/../lib/gcc/arm-none-eabi/14.2.1/thumb/v7e-m+fp/hard/libgcc.a(unwind-arm.o)
+                                  0x8 (size before relaxing)
+ .ARM.exidx.text._Unwind_VRS_Set
+                0x08001a8c        0x0 /opt/arm-gnu-toolchain/bin/../lib/gcc/arm-none-eabi/14.2.1/thumb/v7e-m+fp/hard/libgcc.a(unwind-arm.o)
+                                  0x8 (size before relaxing)
+ .ARM.exidx.text._Unwind_SetGR
+                0x08001a8c        0x0 /opt/arm-gnu-toolchain/bin/../lib/gcc/arm-none-eabi/14.2.1/thumb/v7e-m+fp/hard/libgcc.a(unwind-arm.o)
+                                  0x8 (size before relaxing)
+ .ARM.exidx.text.__gnu_Unwind_Backtrace
+                0x08001a8c        0x8 /opt/arm-gnu-toolchain/bin/../lib/gcc/arm-none-eabi/14.2.1/thumb/v7e-m+fp/hard/libgcc.a(unwind-arm.o)
+ .ARM.exidx.text.__gnu_unwind_pr_common
+                0x08001a94        0x8 /opt/arm-gnu-toolchain/bin/../lib/gcc/arm-none-eabi/14.2.1/thumb/v7e-m+fp/hard/libgcc.a(unwind-arm.o)
+ .ARM.exidx.text.__aeabi_unwind_cpp_pr0
+                0x08001a9c        0x8 /opt/arm-gnu-toolchain/bin/../lib/gcc/arm-none-eabi/14.2.1/thumb/v7e-m+fp/hard/libgcc.a(unwind-arm.o)
+ .ARM.exidx.text.__aeabi_unwind_cpp_pr1
+                0x08001aa4        0x0 /opt/arm-gnu-toolchain/bin/../lib/gcc/arm-none-eabi/14.2.1/thumb/v7e-m+fp/hard/libgcc.a(unwind-arm.o)
+                                  0x8 (size before relaxing)
+ .ARM.exidx.text.__aeabi_unwind_cpp_pr2
+                0x08001aa4        0x0 /opt/arm-gnu-toolchain/bin/../lib/gcc/arm-none-eabi/14.2.1/thumb/v7e-m+fp/hard/libgcc.a(unwind-arm.o)
+                                  0x8 (size before relaxing)
+ .ARM.exidx.text._Unwind_VRS_Pop
+                0x08001aa4       0x10 /opt/arm-gnu-toolchain/bin/../lib/gcc/arm-none-eabi/14.2.1/thumb/v7e-m+fp/hard/libgcc.a(unwind-arm.o)
+                                  0x8 (size before relaxing)
+ .ARM.exidx.text.next_unwind_byte
+                0x08001ab4        0x0 /opt/arm-gnu-toolchain/bin/../lib/gcc/arm-none-eabi/14.2.1/thumb/v7e-m+fp/hard/libgcc.a(pr-support.o)
+                                  0x8 (size before relaxing)
+ .ARM.exidx.text.__gnu_unwind_execute
+                0x08001ab4       0x10 /opt/arm-gnu-toolchain/bin/../lib/gcc/arm-none-eabi/14.2.1/thumb/v7e-m+fp/hard/libgcc.a(pr-support.o)
+                                  0x8 (size before relaxing)
+                0x08001ac4                        __exidx_end = .
+
+.rel.dyn        0x08001ac4        0x0 load address 0x0c001ac4
+ .rel.iplt      0x08001ac4        0x0 CMakeFiles/xmclib-blinky.elf.dir/src/main.cpp.o
+
+Stack           0x1ffe8000      0x800
+                0x1ffe8000                        __stack_start = .
+                0x1ffe8800                        . = (. + stack_size)
+ *fill*         0x1ffe8000      0x800 
+                0x1ffe8800                        __stack_end = .
+                0x1ffe8800                        __initial_sp = .
+
+.ram_code       0x1ffe8800        0x0 load address 0x0c001ac4
+                0x1ffe8800                        . = ALIGN (0x4)
+                0x1ffe8800                        __ram_code_start = .
+ *(.ram_code)
+                0x1ffe8800                        . = ALIGN (0x4)
+                0x1ffe8800                        __ram_code_end = .
+                0x0c001ac4                        __ram_code_load = LOADADDR (.ram_code)
+                0x00000000                        __ram_code_size = (__ram_code_end - __ram_code_start)
+
+.data           0x1ffe8800       0x58 load address 0x0c001ac4
+                0x1ffe8800                        . = ALIGN (0x4)
+                0x1ffe8800                        __data_start = .
+ *(.data)
+ *(.data*)
+ .data._impure_ptr
+                0x1ffe8800        0x4 /opt/arm-gnu-toolchain/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-impure.o)
+                0x1ffe8800                _impure_ptr
+ .data._impure_data
+                0x1ffe8804       0x4c /opt/arm-gnu-toolchain/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-impure.o)
+                0x1ffe8804                _impure_data
+ *(*.data)
+ *(.gnu.linkonce.d*)
+                0x1ffe8850                        . = ALIGN (0x4)
+                0x1ffe8850                        PROVIDE (__preinit_array_start = .)
+ *(.preinit_array)
+                0x1ffe8850                        PROVIDE (__preinit_array_end = .)
+                0x1ffe8850                        . = ALIGN (0x4)
+                0x1ffe8850                        PROVIDE (__init_array_start = .)
+ *(SORT_BY_NAME(.init_array.*))
+ *(.init_array)
+ .init_array    0x1ffe8850        0x4 CMakeFiles/xmclib-blinky.elf.dir/src/boards/xmc47_relax_kit.cpp.o
+                0x1ffe8854                        PROVIDE (__init_array_end = .)
+                0x1ffe8854                        . = ALIGN (0x4)
+                [!provide]                        PROVIDE (__fini_array_start = .)
+ *(SORT_BY_NAME(.fini_array.*))
+ *(.fini_array)
+                [!provide]                        PROVIDE (__fini_array_end = .)
+                0x1ffe8858                        . = ALIGN (0x8)
+ *fill*         0x1ffe8854        0x4 
+                0x1ffe8858                        __data_end = .
+                0x0c001ac4                        __data_load = LOADADDR (.data)
+                0x00000058                        __data_size = (__data_end - __data_start)
+
+.igot.plt       0x1ffe8858        0x0 load address 0x0c001b1c
+ .igot.plt      0x1ffe8858        0x0 CMakeFiles/xmclib-blinky.elf.dir/src/main.cpp.o
+
+.bss            0x1ffe8858       0x1c load address 0x0c001b1c
+                0x1ffe8858                        . = ALIGN (0x4)
+                0x1ffe8858                        __bss_start = .
+ *(.bss)
+ *(.bss*)
+ .bss.builtin_led1
+                0x1ffe8858        0xc CMakeFiles/xmclib-blinky.elf.dir/src/boards/xmc47_relax_kit.cpp.o
+                0x1ffe8858                builtin_led1
+ .bss.builtin_led2
+                0x1ffe8864        0xc CMakeFiles/xmclib-blinky.elf.dir/src/boards/xmc47_relax_kit.cpp.o
+                0x1ffe8864                builtin_led2
+ .bss.errno     0x1ffe8870        0x4 /opt/arm-gnu-toolchain/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-reent.o)
+                0x1ffe8870                errno
+ *(COMMON)
+ *(.gnu.linkonce.b*)
+                0x1ffe8874                        . = ALIGN (0x4)
+                0x1ffe8874                        __bss_end = .
+                0x0000001c                        __bss_size = (__bss_end - __bss_start)
+                0x0001778c                        __shift_loc = (__bss_end >= ORIGIN (DSRAM_1_system))?0x0:(ORIGIN (DSRAM_1_system) - __bss_end)
+
+USB_RAM         0x20000000        0x0
+                0x20000000                        . = ALIGN (0x4)
+                0x20000000                        USB_RAM_start = .
+ *(USB_RAM)
+                0x20000000                        . = ALIGN (0x4)
+                0x20000000                        USB_RAM_end = .
+                0x00000000                        USB_RAM_size = (USB_RAM_end - USB_RAM_start)
+
+ETH_RAM         0x20000000        0x0
+                0x20000000                        . = ALIGN (0x4)
+                0x20000000                        ETH_RAM_start = .
+ *(ETH_RAM)
+                0x20000000                        . = ALIGN (0x4)
+                0x20000000                        ETH_RAM_end = .
+                0x20000000                        . = ALIGN (0x8)
+                0x20000000                        Heap_Bank1_Start = .
+                0x00000000                        ETH_RAM_size = (ETH_RAM_end - ETH_RAM_start)
+
+.no_init        0x2003ffc0       0x14
+                0x2003ffc0                        Heap_Bank1_End = .
+                0x2003ffc0                        end = Heap_Bank1_End
+ *(.no_init)
+ .no_init       0x2003ffc0       0x14 CMakeFiles/xmclib-blinky.elf.dir/src/system_XMC4700.c.o
+                0x2003ffc0                SystemCoreClock
+                0x2003ffc4                g_chipid
+                0x0003ffc0                        Heap_Bank1_Size = (Heap_Bank1_End - Heap_Bank1_Start)
+                0x00000001                        ASSERT ((Heap_Bank1_Start <= Heap_Bank1_End), region SRAM_combined overflowed no_init section)
+
+/DISCARD/
+ *(.comment)
+
+.stab
+ *(.stab)
+
+.stabstr
+ *(.stabstr)
+
+.debug
+ *(.debug)
+
+.line
+ *(.line)
+
+.debug_srcinfo
+ *(.debug_srcinfo)
+
+.debug_sfnames
+ *(.debug_sfnames)
+
+.debug_aranges
+ *(.debug_aranges)
+
+.debug_pubnames
+ *(.debug_pubnames)
+
+.debug_pubtypes
+ *(.debug_pubtypes)
+
+.debug_info
+ *(.debug_info .gnu.linkonce.wi.*)
+
+.debug_abbrev
+ *(.debug_abbrev)
+
+.debug_line
+ *(.debug_line)
+
+.debug_frame    0x00000000      0x5ec
+ *(.debug_frame)
+ .debug_frame   0x00000000       0x2c /opt/arm-gnu-toolchain/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-init.o)
+ .debug_frame   0x0000002c       0x28 /opt/arm-gnu-toolchain/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-memcpy-stub.o)
+ .debug_frame   0x00000054      0x2cc /opt/arm-gnu-toolchain/bin/../lib/gcc/arm-none-eabi/14.2.1/thumb/v7e-m+fp/hard/libgcc.a(unwind-arm.o)
+ .debug_frame   0x00000320      0x104 /opt/arm-gnu-toolchain/bin/../lib/gcc/arm-none-eabi/14.2.1/thumb/v7e-m+fp/hard/libgcc.a(pr-support.o)
+ .debug_frame   0x00000424       0x28 /opt/arm-gnu-toolchain/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-abort.o)
+ .debug_frame   0x0000044c       0xcc /opt/arm-gnu-toolchain/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-signal.o)
+ .debug_frame   0x00000518       0x3c /opt/arm-gnu-toolchain/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-signalr.o)
+ .debug_frame   0x00000554       0x38 /opt/arm-gnu-toolchain/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-reent.o)
+ .debug_frame   0x0000058c       0x20 /opt/arm-gnu-toolchain/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libnosys.a(getpid.o)
+ .debug_frame   0x000005ac       0x20 /opt/arm-gnu-toolchain/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libnosys.a(kill.o)
+ .debug_frame   0x000005cc       0x20 /opt/arm-gnu-toolchain/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libnosys.a(_exit.o)
+
+.debug_str
+ *(.debug_str)
+
+.debug_loc
+ *(.debug_loc)
+
+.debug_macinfo
+ *(.debug_macinfo)
+
+.debug_ranges
+ *(.debug_ranges)
+
+.debug_weaknames
+ *(.debug_weaknames)
+
+.debug_funcnames
+ *(.debug_funcnames)
+
+.debug_typenames
+ *(.debug_typenames)
+
+.debug_varnames
+ *(.debug_varnames)
+
+.build_attributes
+                0x00000000      0x382
+ *(.ARM.attributes)
+ .ARM.attributes
+                0x00000000       0x34 CMakeFiles/xmclib-blinky.elf.dir/src/main.cpp.o
+ .ARM.attributes
+                0x00000034       0x20 CMakeFiles/xmclib-blinky.elf.dir/src/startup_XMC4700.S.o
+ .ARM.attributes
+                0x00000054       0x34 CMakeFiles/xmclib-blinky.elf.dir/src/system_XMC4700.c.o
+ .ARM.attributes
+                0x00000088       0x34 CMakeFiles/xmclib-blinky.elf.dir/src/gpio.cpp.o
+ .ARM.attributes
+                0x000000bc       0x34 CMakeFiles/xmclib-blinky.elf.dir/src/boards/xmc47_relax_kit.cpp.o
+ .ARM.attributes
+                0x000000f0       0x34 /opt/arm-gnu-toolchain/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-init.o)
+ .ARM.attributes
+                0x00000124       0x34 /opt/arm-gnu-toolchain/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-memcpy-stub.o)
+ .ARM.attributes
+                0x00000158       0x34 /opt/arm-gnu-toolchain/bin/../lib/gcc/arm-none-eabi/14.2.1/thumb/v7e-m+fp/hard/libgcc.a(unwind-arm.o)
+ .ARM.attributes
+                0x0000018c       0x22 /opt/arm-gnu-toolchain/bin/../lib/gcc/arm-none-eabi/14.2.1/thumb/v7e-m+fp/hard/libgcc.a(libunwind.o)
+ .ARM.attributes
+                0x000001ae       0x34 /opt/arm-gnu-toolchain/bin/../lib/gcc/arm-none-eabi/14.2.1/thumb/v7e-m+fp/hard/libgcc.a(pr-support.o)
+ .ARM.attributes
+                0x000001e2       0x34 /opt/arm-gnu-toolchain/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-abort.o)
+ .ARM.attributes
+                0x00000216       0x34 /opt/arm-gnu-toolchain/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-signal.o)
+ .ARM.attributes
+                0x0000024a       0x34 /opt/arm-gnu-toolchain/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-impure.o)
+ .ARM.attributes
+                0x0000027e       0x34 /opt/arm-gnu-toolchain/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-signalr.o)
+ .ARM.attributes
+                0x000002b2       0x34 /opt/arm-gnu-toolchain/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-reent.o)
+ .ARM.attributes
+                0x000002e6       0x34 /opt/arm-gnu-toolchain/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libnosys.a(getpid.o)
+ .ARM.attributes
+                0x0000031a       0x34 /opt/arm-gnu-toolchain/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libnosys.a(kill.o)
+ .ARM.attributes
+                0x0000034e       0x34 /opt/arm-gnu-toolchain/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libnosys.a(_exit.o)
+LOAD CMakeFiles/xmclib-blinky.elf.dir/src/main.cpp.o
+LOAD CMakeFiles/xmclib-blinky.elf.dir/src/startup_XMC4700.S.o
+LOAD CMakeFiles/xmclib-blinky.elf.dir/src/system_XMC4700.c.o
+LOAD CMakeFiles/xmclib-blinky.elf.dir/src/gpio.cpp.o
+LOAD CMakeFiles/xmclib-blinky.elf.dir/src/led.cpp.o
+LOAD CMakeFiles/xmclib-blinky.elf.dir/src/boards/xmc47_relax_kit.cpp.o
+LOAD /opt/arm-gnu-toolchain/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libstdc++_nano.a
+LOAD /opt/arm-gnu-toolchain/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libm.a
+LOAD /opt/arm-gnu-toolchain/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a
+START GROUP
+LOAD /opt/arm-gnu-toolchain/bin/../lib/gcc/arm-none-eabi/14.2.1/thumb/v7e-m+fp/hard/libgcc.a
+LOAD /opt/arm-gnu-toolchain/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a
+END GROUP
+START GROUP
+LOAD /opt/arm-gnu-toolchain/bin/../lib/gcc/arm-none-eabi/14.2.1/thumb/v7e-m+fp/hard/libgcc.a
+LOAD /opt/arm-gnu-toolchain/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a
+LOAD /opt/arm-gnu-toolchain/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libnosys.a
+END GROUP
+START GROUP
+LOAD /opt/arm-gnu-toolchain/bin/../lib/gcc/arm-none-eabi/14.2.1/thumb/v7e-m+fp/hard/libgcc.a
+LOAD /opt/arm-gnu-toolchain/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a
+LOAD /opt/arm-gnu-toolchain/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libnosys.a
+END GROUP
+OUTPUT(xmclib-blinky.elf elf32-littlearm)
+LOAD linker stubs
+
+.debug_line_str
+                0x00000000       0xc6
+ .debug_line_str
+                0x00000000       0xc6 /opt/arm-gnu-toolchain/bin/../lib/gcc/arm-none-eabi/14.2.1/thumb/v7e-m+fp/hard/libgcc.a(libunwind.o)

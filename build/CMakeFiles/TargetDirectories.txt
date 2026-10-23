@@ -1,0 +1,3 @@
+/home/urs-wagner/infineon/xmclib-blinky/build/CMakeFiles/xmclib-blinky.elf.dir
+/home/urs-wagner/infineon/xmclib-blinky/build/CMakeFiles/edit_cache.dir
+/home/urs-wagner/infineon/xmclib-blinky/build/CMakeFiles/rebuild_cache.dir

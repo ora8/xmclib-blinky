@@ -1,0 +1,29 @@
+CMakeFiles/xmclib-blinky.elf.dir/src/system_XMC4700.c.o: \
+ /home/urs-wagner/infineon/xmclib-blinky/src/system_XMC4700.c \
+ /opt/arm-gnu-toolchain/arm-none-eabi/include/string.h \
+ /opt/arm-gnu-toolchain/arm-none-eabi/include/_ansi.h \
+ /opt/arm-gnu-toolchain/arm-none-eabi/include/newlib.h \
+ /opt/arm-gnu-toolchain/arm-none-eabi/include/_newlib_version.h \
+ /opt/arm-gnu-toolchain/arm-none-eabi/include/sys/config.h \
+ /opt/arm-gnu-toolchain/arm-none-eabi/include/machine/ieeefp.h \
+ /opt/arm-gnu-toolchain/arm-none-eabi/include/sys/features.h \
+ /opt/arm-gnu-toolchain/arm-none-eabi/include/sys/reent.h \
+ /opt/arm-gnu-toolchain/arm-none-eabi/include/_ansi.h \
+ /opt/arm-gnu-toolchain/lib/gcc/arm-none-eabi/14.2.1/include/stddef.h \
+ /opt/arm-gnu-toolchain/arm-none-eabi/include/sys/cdefs.h \
+ /opt/arm-gnu-toolchain/arm-none-eabi/include/machine/_default_types.h \
+ /opt/arm-gnu-toolchain/arm-none-eabi/include/sys/_types.h \
+ /opt/arm-gnu-toolchain/arm-none-eabi/include/machine/_types.h \
+ /opt/arm-gnu-toolchain/arm-none-eabi/include/sys/lock.h \
+ /opt/arm-gnu-toolchain/arm-none-eabi/include/sys/_locale.h \
+ /opt/arm-gnu-toolchain/arm-none-eabi/include/strings.h \
+ /opt/arm-gnu-toolchain/arm-none-eabi/include/sys/string.h \
+ /home/urs-wagner/infineon/xmclib-blinky/include/infineon/XMC4700.h \
+ /home/urs-wagner/infineon/xmclib-blinky/include/CMSIS/core_cm4.h \
+ /opt/arm-gnu-toolchain/lib/gcc/arm-none-eabi/14.2.1/include/stdint.h \
+ /opt/arm-gnu-toolchain/lib/gcc/arm-none-eabi/14.2.1/include/stdint-gcc.h \
+ /home/urs-wagner/infineon/xmclib-blinky/include/CMSIS/cmsis_version.h \
+ /home/urs-wagner/infineon/xmclib-blinky/include/CMSIS/cmsis_compiler.h \
+ /home/urs-wagner/infineon/xmclib-blinky/include/CMSIS/cmsis_gcc.h \
+ /home/urs-wagner/infineon/xmclib-blinky/include/CMSIS/mpu_armv7.h \
+ /home/urs-wagner/infineon/xmclib-blinky/include/system_XMC4700.h
