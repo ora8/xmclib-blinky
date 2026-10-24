@@ -2,7 +2,7 @@
 
 #include <stdint.h>
 
-#include "infineon/xmc4700_struct.h"
+#include "xmc4700_struct.h"
 
 enum gpio_mode : uint8_t
 {

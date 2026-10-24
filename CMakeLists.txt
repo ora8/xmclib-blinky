@@ -30,11 +30,10 @@ set(ARM_FLAGS
 # 2. Ihr Executable/Target (Name an Ihr Projekt anpassen)
 add_executable(xmclib-blinky.elf
     src/main.cpp
-    src/startup_XMC4700.S  # Startup-Datei hinzufügen
-    src/system_XMC4700.c
-    src/gpio.cpp
-    src/led.cpp
-    src/boards/xmc47_relax_kit.cpp
+    src/xmc4700/startup_XMC4700.S  # Startup-Datei hinzufügen
+    src/xmc4700/system_XMC4700.c
+    src/xmc4700/gpio.cpp
+    src/xmc4700/led.cpp
 )
 
 # 2. Das C-Makro dem Target hinzufügen
@@ -44,7 +43,8 @@ target_compile_definitions(xmclib-blinky.elf PRIVATE XMC4700_F144x2048)
 include_directories(xmclib-blinky.elf
     include
     include/CMSIS
-    include/infineon)
+    include/infineon
+    include/infineon/xmc4700)
 
 # Setze den OUTPUT_NAME explizit auf "xmclib-blinky.elf"
 set_target_properties(xmclib-blinky.elf PROPERTIES

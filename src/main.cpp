@@ -1,6 +1,6 @@
 #include <stdint.h>
 
-#include "boards/xmc47_relax_kit.h"
+#include "xmc4700/led.hpp"
 
 // Register-Definitionen
 #define SCU_BASE            0x50004000UL
@@ -98,6 +98,9 @@ int main(void) {
     // // Registerschutz zur Sicherheit nochmals aufheben
     // SCU_GCU_PROT = 0x000000C5UL;
     // SCU_CLKSET |= (1UL << 5);  // Port5-Clock sicherstellen
+
+    led builtin_led1{5, 8};
+    led builtin_led2{5, 9};
 
     builtin_led1.begin();
     builtin_led2.begin();
